@@ -2,8 +2,6 @@
 
 This library performs basic hydraulic (fluid power) calculations.
 
-<a href="https://nodei.co/npm/hydraulic-calculator/"><img src="https://nodei.co/npm/hydraulic-calculator.png"></a>
-
 ### Installation
 
 ```

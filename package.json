@@ -1,6 +1,6 @@
 {
   "name": "hydraulic-calculator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Perform basic hydraulic (fluid power) calculations.",
   "keywords": [
     "hydraulics",
