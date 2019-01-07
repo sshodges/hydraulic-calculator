@@ -1,0 +1,24 @@
+{
+  "name": "hydraulic-calculator",
+  "version": "1.0.2",
+  "description": "Perform basic hydraulic (fluid power) calculations.",
+  "keywords": [
+    "hydraulics",
+    "hydraulic calculator",
+    "fluid power",
+    "calculator",
+    "hydraulic",
+    "pump",
+    "motor"
+  ],
+  "license": "MIT",
+  "main": "lib/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sshodges/hydraulic-calculator"
+  },
+  "author": {
+    "name": "Sam Hodges",
+    "email": "sshodges@gmail.com"
+    }
+}
