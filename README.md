@@ -59,10 +59,10 @@ Object {
 
 ```javascript
 hydcalc.inputPower({
-      "flow": 20,
-      "pressure": 185,
-      "unitType": "metric",
-      "round": 1
+      flow: 20,
+      pressure: 185,
+      unitType: "metric",
+      round: 1
 })
 // Will return
 Object {
